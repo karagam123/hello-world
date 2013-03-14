@@ -11,28 +11,28 @@ Solution:
 We are proposing to build a web application that would store ads for available parking spaces in off-campus houses.  Accessible by Tufts students, users will be able to create an account and find listings by other students who don’t need their parking spaces.  There will be two options for renting out parking spots, either a 2 semester lease or a specific amount of time (ex. a weekend).  
 
 Features:  
-*	2 account types, leasers and renters, both with satisfaction ratings
-*	easers will rent out their spots for either a full school year or for a specified amount of time to renters.
-*	Using the google maps API to find locations of parking spaces and the facebook API to post ads to facebook as well as the website
-*	Updates listings by receiving data from an AJAX server
-*	Will use different markers to indicate that the leaser who posted that spot has already been contacted (server side persistence, similar to jumpoffcampus)
+* 2 account types, leasers and renters, both with satisfaction ratings
+* Leasers will rent out their spots for either a full school year or for a specified amount of time to renters.
+* Using the google maps API to find locations of parking spaces and the facebook API to post ads to facebook as well as the website
+* Updates listings by receiving data from an AJAX server
+* Will use different markers to indicate that the leaser who posted that spot has already been contacted (server side persistence, similar to jumpoffcampus)
 
 ‘Pick 5’ Features:  
-1.	Uses geolocation to find the closest parking spot listing near you.
-2.	Each user profile has a chart/graph to showcase their satisfaction ratings
-3.	A custom search will be used to filter out locations by various options (price range, distance from you, etc)
-4.	Sends emails between users 
-5.	We will use bootstrap to design the layout
+1. Uses geolocation to find the closest parking spot listing near you.  
+2. Each user profile has a chart/graph to showcase their satisfaction ratings  
+3. A custom search will be used to filter out locations by various options (price range, distance from you, etc)  
+4. Sends emails between users  
+5. We will use bootstrap to design the layout  
 
 Data:  
 From Leasers:  
 The leasers will post:  
-*	The number of spots they are offering 
-*	The time that they are offering the spot(s) for 
-*	The price it will be offered
-*	The address of the spot
-*	Type of spot (street, driveway, garage).
-*	A note describing any other information they want the renter to know
+* The number of spots they are offering 
+* The time that they are offering the spot(s) for 
+* The price it will be offered
+* The address of the spot
+* Type of spot (street, driveway, garage).
+* A note describing any other information they want the renter to know
 
 From any user:  
-*	Users will create accounts with their full names, DOB/class year, and contact information
+* Users will create accounts with their full names, DOB/class year, and contact information
