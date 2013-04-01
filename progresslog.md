@@ -2,10 +2,11 @@
 
 ###Pages:
 * Homepage (with log in box)--CONNOR
-* Make Account (Mockup already exists--can also incorporate elements for seller/buyer profile)
+* Make Account (Mockup already exists--can also incorporate information for seller/buyer profile)
 * View/Edit Account (for the account creator)
 * Listings page (with map)--NEENA
 * New Posting page (to add new parking posting)
+* Buyer/Seller profile page (mockup already exists)
 
 
 ##Checkpoint/meeting dates (subject to change)
