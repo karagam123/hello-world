@@ -33,3 +33,7 @@ From Leasers:
 
 From any user:
 * Users will create accounts with their full names, DOB/class year, and contact information
+
+#Comments from Ming
+* Damn right, there is a shortage of parking at Tufts (except for the lot across from Halligan)
+* Please do not collect DOB. Collecting less information is more.
