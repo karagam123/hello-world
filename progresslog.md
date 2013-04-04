@@ -2,7 +2,7 @@
 
 ###Pages:
 * Homepage (with log in box)--CONNOR
-* Make Account (Mockup already exists--can also incorporate information for seller/buyer profile)
+* Make Account (Mockup already exists--can also incorporate information for seller/buyer profile)--JASON
 * View/Edit Account (for the account creator)
 * Listings page (with map)--NEENA
 * New Posting page (to add new parking posting)
