@@ -1,0 +1,32 @@
+.title-color{
+	color: #5E8EB5;
+	font-size: 450%;
+	padding-top: 10px;
+	line-height: 100%;
+}
+.pad{
+	padding-top: 40px;
+}
+.smallpad{
+	padding-top: 10px;
+}
+
+.brown{
+	color: #9F8170;
+}
+
+.expand{
+	height:30px 	!important;
+	font-size:20px 	!important;
+}
+
+.input2-large{
+	width:440px;
+}
+.nopad{
+	padding:0;
+}
+
+h1{
+	color: #5E8EB5;
+}
