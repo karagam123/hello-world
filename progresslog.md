@@ -1,7 +1,7 @@
 #A place for us to report our progress, assign work, create checkpoint dates...
 
 ###Pages:
-* Homepage (with log in box)--CONNOR
+* Homepage (with log in box)--CONNOR **This page is created, buttons need event handling**
 * Make Account (Mockup already exists--can also incorporate information for seller/buyer profile)--JASON
 * View/Edit Account (for the account creator)
 * Listings page (with map)--NEENA
